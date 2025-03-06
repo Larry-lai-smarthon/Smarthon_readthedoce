@@ -26,3 +26,4 @@ Sensors and actuators
     LCD1602.md
     LED_Grow_Light.md
     CO2_sensor.md
+    IR_sensor.md
